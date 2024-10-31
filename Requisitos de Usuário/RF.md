@@ -4,19 +4,19 @@
 
 | ID   |                                 Requisito                                 | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------: | :--------: | :---------: |
-| RF01 |              O usuário deve poder personalizar seu ambiente.              |  Média     |    RF12     |
-| RF02 |           O usuário deve poder acessar o seu progresso no jogo.           |  Alta      |      RF25   |
-| RF03 |              O usuário deve poder acessar seu nível no jogo.              |  Baixa     |     -       |
-| RF04 |                 O usuário deve poder ver suas conquistas.                 |            |             |
-| RF05 |        O usuário deve poder escolher a dificuldade de suas lições.        |            |             |
-| RF06 |       O usuário deve poder determinar metas diárias a ser comprida.       |            |             |
-
+| RF01 |              O usuário deve poder criar novas notas.                      |  Alta      |      -      |
+| RF02 |           O usuário deve poder editar notas existentes.                   |  Alta      |      -     |
+| RF03 |             O usuário deve poder excluir notas.                           |  Alta      |      -     |
+| RF04 |     O usuário deve poder buscar notas por palavras-chave.                 |  Alta      |      -     |
+| RF05 |        O usuário deve poder aplicar formatação ao texto.                  |  Médio     |      -     |
+| RF06 |  O usuário deve poder compartilhar notas por e-mail ou em redes sociais.  |  Médio     |     -       |
+| RF07 | O aplicativo deve permitir a sincronização das notas entre diferentes dispositivos.  |  Médio     |   -      |
+| RF08 |  O usuário deve poder compartilhar notas por e-mail ou em redes sociais.  |  Médio     |      -     |
+| RF09 |  O usuário deve poder proteger suas notas com senha ou autenticação biométrica.  |  Baixo    |     -      |
+| RF10 |  O usuário deve poder exportar notas em formatos como TXT, PDF ou DOC.  |  Baixo    |    -      |
 
 <div style="text-align: center">
 <p>Tabela 1: Requisitos Funcionais</p>
 </div>
-
-# 2. Referências
-
 
 <a href="../README.md">VOLTAR INÍCIO</a>
