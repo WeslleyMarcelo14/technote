@@ -26,7 +26,7 @@ O processo de design será dividido em sprints semanais, com revisões constante
 As contribuições devem seguir o padrão de commit especificado para manter a consistência no repositório, e o fluxo ágil será seguido para o desenvolvimento de novas funcionalidades ou ajustes.
 
 ## Integrantes
-- Claudinei Soarez Junior - 2475375
+- Claudinei Soares Junior - 2475375
 - João Gabriel Noce Laureano - 2453509
 - Nathan Zavam - 2410354
 - Weslley Marcelo Pereira - 2368099
