@@ -47,9 +47,11 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
         </tr>
 </table>
 
-<a href="../README.md">VOLTAR INÍCIO</a>
 <div style="text-align: center">
 <p>Tabela 3: História de Usuário</p>
 </div>
+
+<a href="../README.md">VOLTAR INÍCIO</a>
+
 
 
