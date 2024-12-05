@@ -15,7 +15,7 @@
 | RF09 |  O usuário deve poder proteger suas notas com senha ou autenticação biométrica.  |  Baixo    |     -      |
 | RF10 |  O usuário deve poder exportar notas em formatos como TXT, PDF ou DOC.  |  Baixo    |    -      |
 | RF11 |  O usuário deve poder se cadastrar no aplicativo.  |  Alta   |    -      |
-| RF12 |  O usuário deve poder entrar na sua conta.  |  Alta   |    -      |
+| RF12 |  O usuário deve poder logar em sua própria conta.  |  Alta   |    -      |
 
 <div style="text-align: center">
 <p>Tabela 1: Requisitos Funcionais</p>
