@@ -12,7 +12,7 @@
 | RF06 |     O usuário deve poder buscar notas por palavras-chave.                 |  Alta      |      -     |
 | RF07 |        O usuário deve poder aplicar formatação ao texto.                  |  Médio     |      -     |
 | RF08 | O usuário deve poder marcar notas como favoritas.  |  Médio     |     -       |
-| RF09 | O aplicativo deve permitir a sincronização das notas entre diferentes dispositivos.  |  Médio     |   -      |
+| RF09 | O aplicativo deve permitir a sincronização das notas entre diferentes dispositivos por nuvem.  |  Médio     |   -      |
 | RF10 |  O usuário deve poder compartilhar notas por e-mail ou em redes sociais.  |  Médio     |      -     |
 | RF11 |  O usuário deve poder proteger suas notas com senha ou autenticação biométrica.  |  Baixo    |     -      |
 | RF12 |  O usuário deve poder exportar notas em formatos como TXT, PDF ou DOC.  |  Baixo    |    -      |
