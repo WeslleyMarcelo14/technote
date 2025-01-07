@@ -26,7 +26,6 @@ Planejamento Ágil: O processo de design será dividido em sprints semanais, com
 Contribuições: As contribuições devem seguir o padrão de commit especificado para manter a consistência no repositório, e o fluxo ágil será seguido para o desenvolvimento de novas funcionalidades ou ajustes.
 
 ## Estrutura do Projeto
-- `Projeto de Sofware/`: Diretório de arquivo referente ao projeto de software.
 - `Protótipos/`: Diretório onde acompanha o link para o projeto no Figma.
 - `Requisitos de Sistema/`: Diretório referente aos diagramas arquivos.asta.
 - `Requisitos de Usuário/`: Diretório onde acompanha os documentos de História de Usuário, Requisitos Funcionais e Não Funcionais e Inspeção.
