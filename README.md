@@ -24,6 +24,7 @@ Planejamento Ágil: O processo de design será dividido em sprints semanais, com
 4. **Retrospective**: Avaliação do sprint, identificando pontos de melhoria para as próximas sprints.
 
 Contribuições: As contribuições devem seguir o padrão de commit especificado para manter a consistência no repositório, e o fluxo ágil será seguido para o desenvolvimento de novas funcionalidades ou ajustes.
+OBS: Os commits com nome padrão do github estão assim pois foram usados para mover ou excluir arquivos.
 
 ## Estrutura do Projeto
 - `Protótipos/`: Diretório onde acompanha o link para o projeto no Figma.
