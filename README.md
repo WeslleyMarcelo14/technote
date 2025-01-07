@@ -1,11 +1,12 @@
 ## Empresa TechNote
+![Logo da Empresa](Figuras/technotelogo.png)
 
 ## Projeto de Desenvolvimento Ágil EC46C - C61 (2024/2)
 
 ## Integrantes
 - Claudinei Soares Junior: 2475375 - https://github.com/claudineijr1829
 - João Gabriel Noce Laureano: 2453509 - https://github.com/Joao-Gabriel-Noce-Laureano
-- Nathan Zavam: 2410354 - https://github.com/
+- Nathan Zavam: 2410354 - https://github.com/nethzzz
 - Weslley Marcelo Pereira: 2368099 - https://github.com/WeslleyMarcelo14
 
 ## Descrição
