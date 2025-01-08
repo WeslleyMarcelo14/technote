@@ -1,5 +1,7 @@
 ## Empresa TechNote - Projeto de Desenvolvimento Ágil EC46C - C61 (2024/2)
-![Logo da Empresa](Figuras/logotechnote.png)
+<div style="text-align: center;">
+    <img src="Figuras/logotechnote.png" alt="Logo da Empresa">
+</div>
 
 ## Integrantes
 - Claudinei Soares Junior: 2475375 - https://github.com/claudineijr1829
